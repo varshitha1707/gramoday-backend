@@ -13,8 +13,8 @@ And to activate the server:
 npm start
 ````
 
-##APIs
-####(Can be found in the routes folder)
+## APIs
+#### (Can be found in the routes folder)
 
 - To send Report (post req) 
 
